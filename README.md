@@ -1,6 +1,10 @@
 # 💫 About Me:
 ✨ I’m currently working on:<br>Web Development projects (HTML, CSS, JavaScript) & beginner-level Data Science<br>🤝 I’m looking to collaborate on:<br>Frontend projects, mini web apps, and student tech projects<br>🛠 I’m looking for help with:<br>Advanced JavaScript, projects ideas, and real-world Data Science use cases<br>📚 I’m currently learning:<br>JavaScript, Git & GitHub, and Data Science fundamentals<br>💬 Ask me about:<br>HTML, CSS, C programming, basic JavaScript, and college tech projects<br>⚡ Fun fact:<br>I love turning small ideas into live websites 🚀🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivekkumar1-afk&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/it_prashant_tiwari?igsh=MWp6dGZhOHBqZHl4aA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prashant-tiwari-25a68b383) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@udittiwari002) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/www.pinterest.com/prashantTi0221) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PrashantTi0221) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashant.tiwari@rungta.org) 
